@@ -1,1 +1,4 @@
-# Hybrid-CNN-SVM-model-for-Action-Recognition-from-Videos-
+In this project, we carried out a brief study of a framework for Action Recognition from videos and proposed some experiments on it. We took the UCF101 dataset and with the 101 classes/categories took some random  four classes. Preprocessed the dataset and some of the features have been extracted as of now. We have splitted the dataset into training and testing parts and experimented with the LRCN(CNN(Convolutional Neural Network) and LSTM(Long Short-Term Memory Network)) approach which basically deals with images in motion. We have trained the model with four classes and predicted with 0.789% accuracy till now.
+Furthermore, for better classification of actions we moved to Support Vector Machine (SVM) from LSTM and gained an accuracy of 0.8834.
+
+Activity Recognition is an important problem in computer vision. AR is the basis for many applications such as video surveillance, health care, and human-computer interaction. Methodologies and technologies have made tremendous development in the past decades and have kept developing up to date. However, challenges still exist when facing realistic sceneries.
