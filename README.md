@@ -1,0 +1,1 @@
+# Hybrid-CNN-SVM-model-for-Action-Recognition-from-Videos-
